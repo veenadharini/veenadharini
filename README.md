@@ -7,21 +7,23 @@
 I’m passionate about turning complex datasets into impactful visual stories, merging data engineering with advanced analytics to uncover actionable insights. My expertise lies in creating efficient data pipelines and crafting visualizations that empower data-driven decision-making. Combining creativity with technical skills, I thrive on solving real-world problems with innovative, data-driven solutions.
 </p>
 
-- 🔭 I’m currently working on **Flux with ComfyUI**
+- 🔭 I’m currently working on **Image generation using Flux and ComfyUI, experimenting with Generative AI models**
 
 - 🌱 I’m currently learning **more on Generative AI and my advance SQL skills**
 
 - 👯 I’m looking to collaborate on **Data Engineering and GenAI Projects**
 
-- 💬 Ask me about **SQL, Data Visualization and Business Process Engineering**
+- 💬 Ask me about **SQL, Data Engineering and Visualization techniques **
 
 - 📫 How to reach me **shukla.ve@northeastern.edu**
 
-- ⚡ Fun fact **🐱 I also happen to love cats, and they inspire my curiosity and focus!**
+- ⚡ Here's a random Fun fact about me: **🐱 I also happen to love cats, and they inspire my curiosity and focus!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/veenadharini-shukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veenadharini-shukla/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/veenadharini-shukla/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
