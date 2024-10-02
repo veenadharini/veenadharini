@@ -13,7 +13,7 @@ I’m passionate about turning complex datasets into impactful visual stories, m
 
 - 👯 I’m looking to collaborate on **Data Engineering and GenAI Projects**
 
-- 💬 Ask me about **SQL, Data Engineering and Visualization techniques **
+- 💬 Ask me about **SQL, Data Engineering and Visualization techniques**
 
 - 📫 How to reach me **shukla.ve@northeastern.edu**
 
