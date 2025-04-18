@@ -7,7 +7,7 @@
 I’m passionate about turning complex datasets into impactful visual stories, merging data engineering with advanced analytics to uncover actionable insights. My expertise lies in creating efficient data pipelines and crafting visualizations that empower data-driven decision-making. Combining creativity with technical skills, I thrive on solving real-world problems with innovative, data-driven solutions.
 </p>
 
-- 🔭 I’m currently working on **Image generation using Flux and ComfyUI, experimenting with Generative AI models**
+- 🔭 I’m currently working on **Creating Super Agents using LLMS and reading about MCP (Model Context Protocol)**
 
 - 🌱 I’m currently learning **more on Generative AI and my advance SQL skills**
 
@@ -15,7 +15,7 @@ I’m passionate about turning complex datasets into impactful visual stories, m
 
 - 💬 Ask me about **SQL, Data Engineering and Visualization techniques**
 
-- 📫 How to reach me **shukla.ve@northeastern.edu**
+- 📫 How to reach me **veenadharinishukla55@gmail.com**
 
 - ⚡ Here's a random Fun fact about me: **🐱 I also happen to love cats, and they inspire my curiosity and focus!**
 
